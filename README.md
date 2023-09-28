@@ -6,7 +6,8 @@
 - &#128231; Email: gareispablotecnica1@gmail.com
 - &#128187; Materias: Diseño Web Dinámico - Estático.
 - &#128218; Curso: 6to 3ra.
-- &#9997; Lenguajes Vistos:
+- &#9997; Lenguajes Vistos en Clase:
+  
 ![html-5](https://github.com/gareispablotecnica/gareispablotecnica/assets/146157552/2cd2f482-1be0-498f-865f-19763b720e38)
 ![css-3](https://github.com/gareispablotecnica/gareispablotecnica/assets/146157552/1848d632-f1a3-45bd-a507-8c1db0a7eef9)
 ![js](https://github.com/gareispablotecnica/gareispablotecnica/assets/146157552/63af836e-34e3-454e-a093-db8b25b1756a)
