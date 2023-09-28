@@ -1,11 +1,6 @@
-### Hi there 👋
+![banner](https://github.com/gareispablotecnica/gareispablotecnica/assets/146157552/939c7f82-7a09-41ed-bf97-d78771748885)
 
-<!--
-**gareispablotecnica/gareispablotecnica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 	&#129492; Docente
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
