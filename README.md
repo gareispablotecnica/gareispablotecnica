@@ -1,4 +1,4 @@
-![banner](https://github.com/gareispablotecnica/gareispablotecnica/assets/146157552/939c7f82-7a09-41ed-bf97-d78771748885)
+![Purple Modern Digital Marketing Banner (4)](https://github.com/gareispablotecnica/gareispablotecnica/assets/146157552/dad65f20-a7d3-42f5-a19f-2f7f0026cd94)
 
 - &#129333; Profesión: Docente.
 - &#127979; Secundaria: Técnica N°1.
