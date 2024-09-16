@@ -14,3 +14,6 @@
 ![1200px-Sass_Logo_Color svg (2)](https://github.com/gareispablotecnica/gareispablotecnica/assets/146157552/8f645bde-783e-4329-9233-a5bde7e7adaa)
 ![php (2) (1)](https://github.com/gareispablotecnica/gareispablotecnica/assets/146157552/90d79040-2ef3-4208-8699-a2d112587c58)
 ![png-clipart-mysql-mysql__1_-removebg-preview](https://github.com/gareispablotecnica/gareispablotecnica/assets/146157552/cea0a9be-72b5-4deb-9141-2cb98da4d11f)
+![servidor-sql (2)](https://github.com/user-attachments/assets/7c7b32dd-1f90-406d-acd0-2bd0fd97caef)
+![piton](https://github.com/user-attachments/assets/25409b4f-c2d2-4e90-a355-7cc8187328c0)
+![images__1_-removebg-preview](https://github.com/user-attachments/assets/62d2ce31-ea30-4045-a8ba-cabd62a6b663)
