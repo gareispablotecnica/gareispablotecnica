@@ -8,8 +8,23 @@
 - &#128218; Curso: 6to 3ra  - 7mo 1ra - 7mo 2da.
 - &#9997; Lenguajes Vistos en Clase:
 
-💻 Front-End:
-    
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+📕 Lenguajes Vistos en 6to:
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cs,sass,php,mysql,arduino)](https://skillicons.dev)
+
+📘 Lenguajes Vistos en 7mo:
+
+[![My Skills](https://skillicons.dev/icons?i=py,sqlite)](https://skillicons.dev)
+
+💻 Framework :
+
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,django)](https://skillicons.dev)
+
+🖥 Plataforma de Desarrollo  - IDE:
+
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,visualstudio,dotnet)](https://skillicons.dev)
+
+
+🌍 Plataforma Online:
+
+[![My Skills](https://skillicons.dev/icons?i=github,linkedin)](https://skillicons.dev)
