@@ -1,4 +1,4 @@
-![Purple 3D Modern Programming Class Google Classroom Header](https://github.com/user-attachments/assets/35c9bd1a-eef8-40e8-80d6-f696a20b58b4)
+![Pink And Purple Colorful Computer Google Classroom Header](https://github.com/user-attachments/assets/1cd83d0b-d822-4e61-824e-e830810255be)
 
 - &#129333; Profesión: Docente.
 - &#127979; Secundaria: Técnica N°1.
