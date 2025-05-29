@@ -5,7 +5,6 @@
 - &#127758; Buenos Aires, Esteban Echeverria.
 - &#128231; Email: gareispablotecnica1@gmail.com
 - &#128187; Materias: Diseño Web Dinámico - Estático, Programación III - PDISC.
-- &#128218; Curso: 6to 3ra  - 7mo 1ra - 7mo 2da.
 - &#9997; Lenguajes Vistos en Clase:
 
 📕 Lenguajes Vistos en 6to:
