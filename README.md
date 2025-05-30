@@ -7,6 +7,14 @@
 - &#128187; Materias: Diseño Web Dinámico - Estático, Programación III - PDISC.
 - &#9997; Lenguajes Vistos en Clase:
 
+
+🙄 Lenguajes:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino)](https://skillicons.dev)
+
+
+  
+
 📕 Lenguajes Vistos en 6to:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cs,sass,php,mysql,arduino)](https://skillicons.dev)
