@@ -10,6 +10,10 @@
 - &#9997; Lenguajes Vistos en Clase:
 
 
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gareispablotecnica&layout=compact&langs_count=8&theme=algolia"/>
+
+
+
 📕 Lenguajes Vistos en 6to:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cs,sass,php,mysql,arduino)](https://skillicons.dev)
