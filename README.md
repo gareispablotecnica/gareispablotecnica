@@ -34,3 +34,13 @@
 🌍 Plataforma Online:
 
 [![My Skills](https://skillicons.dev/icons?i=github,linkedin)](https://skillicons.dev)
+
+
+📧 Contacto:
+
+<p align="left">
+  <span>
+    <a href="mailto: gareispablotecnica1@gmail.com?subject=Hola%gareispablotecnica"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="25" /></a>
+    <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25" /></a>
+  </span>
+</p>
