@@ -1,4 +1,5 @@
-![Uploading Pink And Purple Colorful Computer Google Classroom Header.png…]()
+
+![Pink And Purple Colorful Computer Google Classroom Header](https://github.com/user-attachments/assets/b9fcb162-bad8-44dd-950a-f28923206f53)
 
 
 - &#129333; Profesión: Docente.
