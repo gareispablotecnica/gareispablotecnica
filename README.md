@@ -16,15 +16,20 @@
 
 📕 Lenguajes Vistos en 6to:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cs,sass,php,mysql,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cs,sass,php,arduino)](https://skillicons.dev)
 
 📘 Lenguajes Vistos en 7mo:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
+
+
+🗄 Base de Datos:
+
+<img src="https://github.com/user-attachments/assets/7b4ecb00-b756-4d47-be2f-8561ce7ec254" width="48.5"> [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
 
 💻 Framework :
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,django,flask,fastapi)](https://skillicons.dev)
 
 🖥 Plataforma de Desarrollo  - IDE:
 
