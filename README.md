@@ -29,7 +29,7 @@
 
 💻 Framework :
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,django,flask,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,django,flask,fastapi,react)](https://skillicons.dev)
 
 🖥 Plataforma de Desarrollo  - IDE:
 
