@@ -36,11 +36,15 @@
 
 🖥 Plataforma de Desarrollo  - IDE:
 
-[![My Skills](https://skillicons.dev/icons?i=git,vite,vscode,visualstudio,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,visualstudio,dotnet)](https://skillicons.dev)
 
 💻 Programación de Sistemas Embebidos
 
 [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
+
+🗂 Bundler
+
+[![My Skills](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
 
 🌍 Plataforma Online:
 
