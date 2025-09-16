@@ -38,13 +38,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,visualstudio,dotnet)](https://skillicons.dev)
 
-💻 Programación de Sistemas Embebidos
+💻 Programación de Sistemas Embebidos -🗂 Bundler
 
-[![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,vite)](https://skillicons.dev)
 
-🗂 Bundler
 
-[![My Skills](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
 
 🌍 Plataforma Online:
 
