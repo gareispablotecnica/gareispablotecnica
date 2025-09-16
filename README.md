@@ -8,7 +8,7 @@
 - &#127758; Buenos Aires, Esteban Echeverria.
 - &#128231; Email: gareispablotecnica1@gmail.com
 - &#128187; Materias: Diseño Web Dinámico - Estático, Programación III - PDISC.
-- &#9997; Lenguajes Vistos en Clase:
+
 
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gareispablotecnica&layout=compact&langs_count=8&theme=algolia"/>
