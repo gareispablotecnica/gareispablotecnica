@@ -3,7 +3,7 @@
 
 
 - &#129333; Profesión: Docente.
-- &#127979; Secundaria: Técnica N°1.
+- &#127979; SecundariO Técnico: Técnica N°1.
 - 🏛 Nivel Superior: I.S.F.T N°172
 - &#127758; Buenos Aires, Esteban Echeverria.
 - &#128231; Email: gareispablotecnica1@gmail.com
