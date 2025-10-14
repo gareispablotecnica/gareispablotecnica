@@ -27,7 +27,7 @@
 
 📗 Back-End
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,php,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,php,py,nodejs)](https://skillicons.dev)
 
 
 🗄 Base de Datos:
