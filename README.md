@@ -9,6 +9,7 @@
 - &#128231; Email: gareispablotecnica1@gmail.com
 - &#128187; Materias: Diseño Web Dinámico - Estático, Programación III - PDISC.
 
+ 🌐 FrontEnd
 
-<img height="500" alt="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9" src="https://github.com/user-attachments/assets/59069e2e-92a6-407b-9bf5-2d6d53aa832b" />
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,androidstudio)](https://skillicons.dev)
 
