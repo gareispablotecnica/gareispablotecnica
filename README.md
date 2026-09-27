@@ -33,6 +33,10 @@
 
 <img src="https://github.com/user-attachments/assets/7b4ecb00-b756-4d47-be2f-8561ce7ec254" width="48.5"> [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,supabase)](https://skillicons.dev)
 
+📚 Testing / APIs
+
+[![My Skills](https://skillicons.dev/icons?i=postman,coderabbit)](https://skillicons.dev)
+
 
 🖥 Plataforma de Desarrollo  - IDE:
 
