@@ -1,17 +1,9 @@
-![Pink And Purple Colorful Computer Google Classroom Header](https://github.com/user-attachments/assets/b9fcb162-bad8-44dd-950a-f28923206f53)
-
-<img align="right" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
-
 - &#129333; Profesión: Docente.
 - &#127979; Secundario Técnico: Técnica N°1.
 - 🏛 Nivel Superior: I.S.F.T N°172
 - &#127758; Buenos Aires, Esteban Echeverria.
 - &#128231; Email: gareispablotecnica1@gmail.com
 - &#128187; Materias: Diseño Web Dinámico - Estático, Programación III - PDISC.
-
-
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gareispablotecnica&layout=compact&langs_count=8&theme=algolia"/>
-
 
 
 📕 Front-End
