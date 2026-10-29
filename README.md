@@ -3,7 +3,6 @@
 - 🏛 Nivel Superior: I.S.F.T N°172
 - &#127758; Buenos Aires, Esteban Echeverria.
 - &#128231; Email: gareispablotecnica1@gmail.com
-- &#128187; Materias: Diseño Web Dinámico - Estático, Programación III - PDISC.
 
 
 📕 Front-End
